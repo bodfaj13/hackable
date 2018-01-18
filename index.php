@@ -233,7 +233,6 @@
         <li><a href="#services">SERVICES</a></li>
         <li><a href="#portfolio">PORTFOLIO</a></li>
         <li><a href="#pricing">PRICING</a></li>
-        <li><a href="#contact">CONTACT</a></li>
         <li><a href="http://localhost/pablito/login.php">LOGIN</a></li>
         <li><a href="http://localhost/pablito/register.php">REGISTER</a></li>
       </ul>
