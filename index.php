@@ -26,7 +26,7 @@
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>Bootstrap Theme Company Page</title>
+  <title>Hacking Website</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -243,7 +243,7 @@
 
 <div class="jumbotron text-center">
   <h1>Hacking Website</h1> 
-  <p>We specialize in blablabla</p> 
+  <p>We specialize in getting things done</p> 
   <!-- <form>
     <div class="input-group">
       <input type="email" class="form-control" size="50" placeholder="Email Address" required>
@@ -259,8 +259,10 @@
   <div class="row">
     <div class="col-sm-8">
       <h2>About Company Page</h2><br>
-      <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <h4>We are Creative Innovations for New Solutions "CINSOL" for short.</h4><br>
+      <p>We are a creative and innovative information technology solution provider that believes in turning information technology solutions into business values and successes. We provide both organizations and individuals with different technological solutions to help enhance and propel the business.
+
+      We are one of those who believe that Our Industry is not the one that respects tradition, but only respects innovation. We believe that anyone can know but few will understand. Knowledge to us is essential but being professional about what we do is our utmost priority. We have expanded our expertise, no wonder we have been able to deliver professional jobs within limited time.</p>
       <br><button class="btn btn-default btn-lg">Get in Touch</button>
     </div>
     <div class="col-sm-4">
@@ -276,9 +278,8 @@
     </div>
     <div class="col-sm-8">
       <h2>Our Values</h2><br>
-      <h4><strong>MISSION:</strong> Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
-      <p><strong>VISION:</strong> Our vision Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <h4><strong>MISSION:</strong> Our mission is to keep shaping the future that works for all of us by putting people first and empowering them.</h4><br>
+      <p><strong>VISION:</strong> Our vision is to be your most valuable business technology solution provider in the world at large.</p>
     </div>
   </div>
 </div>
@@ -409,7 +410,7 @@
         <div class="panel-footer">
           <h3>$19</h3>
           <h4>per month</h4>
-          <button class="btn btn-lg">Sign Up</button>
+          <button class="btn btn-lg"><a href="http://localhost/pablito/register.php">Sign Up</a></button>
         </div>
       </div>      
     </div>     
@@ -428,7 +429,7 @@
         <div class="panel-footer">
           <h3>$29</h3>
           <h4>per month</h4>
-          <button class="btn btn-lg">Sign Up</button>
+          <button class="btn btn-lg"><a href="http://localhost/pablito/register.php">Sign Up</a></button>
         </div>
       </div>      
     </div>       
@@ -447,7 +448,7 @@
         <div class="panel-footer">
           <h3>$49</h3>
           <h4>per month</h4>
-          <button class="btn btn-lg">Sign Up</button>
+          <button class="btn btn-lg"><a href="http://localhost/pablito/register.php">Sign Up</a></button>
         </div>
       </div>      
     </div>    

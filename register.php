@@ -38,7 +38,7 @@ if(isset($_GET['email'])){
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="./css/bootstrap.css">
   <link rel="stylesheet" href="./css/style.css">
-  <title>Document</title>
+  <title>Hacking Website</title>
 </head>
 <body>
   <!-- header -->
